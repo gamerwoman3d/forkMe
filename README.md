@@ -19,4 +19,14 @@ Copy the GitHub URL.
 Open a Git client such as the BASH shell or GitHub Desktop on your local machine.
 Use the GitHub URL to clone the remote repo.
 
-That command would look like '
+For this repo, that URL will be https://github.com/gamerwoman3d/forkMe.git !
+
+The entire clone command would look like the following:
+git clone https://github.com/gamerwoman3d/forkMe.git
+
+That will take the forkMe repository and copy all of the files on it to your computer in the directory you are in.
+If you use the comand 'ls' for list you will see a list of files in the directory.  
+
+You can open the files in VSCode or in your code editor.  
+
+You can then change the code, and save the changes on your local computer!  Next we will do push, pull, commit, in order to change these files and push them to Saidat's repository!
