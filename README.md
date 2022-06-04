@@ -14,7 +14,7 @@ Once you are in your preferred directory on the command line, it's time to save 
 
 "How do I find my GitHub clone URL?"
 
-On the GitHub website, click on you repository of interest.
+On the GitHub website, click on your repository of interest.
 Locate the green button named Code and click on it. The GitHub URL will appear.
 Copy the GitHub URL.
 Open a Git client such as the BASH shell or GitHub Desktop on your local machine.
